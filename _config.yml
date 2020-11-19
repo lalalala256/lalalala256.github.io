@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: lalalala256
 SEOTitle: lalalala256的博客 | la Blog
 header-img: img/post-bg-desk.jpg
 email: jtwang0256@gmail.com
@@ -12,14 +12,14 @@ github_repo: "https://github.com/lalalala256/lalalala256.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写座右铭"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/tag-bg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     lalalala256
+zhihu_username:     啦啦啦啦256
 github_username:    lalalala256
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
