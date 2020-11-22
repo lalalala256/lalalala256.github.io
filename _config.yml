@@ -1,7 +1,7 @@
 # Site settings
 title: lalalala256
 SEOTitle: lalalala256的博客 | la Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-sample-image.jpg
 email: jtwang0256@gmail.com
 description: "Every failure is leading towards success."
 keyword: "Keep your way, iOS, Apple, iPhone"
@@ -12,14 +12,14 @@ github_repo: "https://github.com/lalalala256/lalalala256.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写座右铭"
-sidebar-avatar: /img/tag-bg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/tag-bg-o.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     啦啦啦啦256
+zhihu_username:     la-la-la-la-256
 github_username:    lalalala256
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: quto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "CSDN",
+        href: "https://blog.csdn.net/qq_25147897"
+#     },{
+#         title: "简书·BY",
+#         href: "http://www.jianshu.com/u/e71990ada2fd"
+#     },{
+#         title: "Apple",
+#         href: "https://apple.com"
+#     },{
+#         title: "Apple Developer",
+#         href: "https://developer.apple.com/"
     }
 ]
