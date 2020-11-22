@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 1a86dcdc03606020ff7a                            #生成的clientID
-  clientSecret: 063609db0e3e7c46b892df8d0a103089dbe6aeb4    #生成的clientSecret
+  clientID: '1a86dcdc03606020ff7a'                            #生成的clientID
+  clientSecret: '28d2cd77aec041817739e1cf53633aa3eb043bc8'    #生成的clientSecret
   repo: lalalala256.github.io    #仓库名称
   owner: lalalala256    #github用户名
   admin: lalalala256
@@ -117,4 +117,4 @@ friends: [
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-volantis
+#theme: hexo-theme-volantis
