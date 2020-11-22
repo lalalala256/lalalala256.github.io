@@ -101,9 +101,9 @@ friends: [
     {
         title: "CSDN",
         href: "https://blog.csdn.net/qq_25147897"
-#     },{
-#         title: "简书·BY",
-#         href: "http://www.jianshu.com/u/e71990ada2fd"
+    },{
+        title: "xiaoshujiang",
+        href: "http://markdown.xiaoshujiang.com/"
 #     },{
 #         title: "Apple",
 #         href: "https://apple.com"
