@@ -1,3 +1,5 @@
+https://perfetto.dev/
+
 https://www.cnblogs.com/wxyww/p/xiaoshujiang.html
 
 https://pypi.org/project/cantools/5.0.0/
@@ -60,3 +62,15 @@ https://zhuanlan.zhihu.com/p/32553977
 https://time.geekbang.org/column/intro/140
 
 https://forums.developer.nvidia.com/t/jetson-xavier-hardware-pps-out/124003/5
+
+https://zhuanlan.zhihu.com/p/264573010
+
+http://www.brendangregg.com/perf.html#StaticUserTracing
+
+https://www.eclipse.org/tracecompass/
+
+https://perfetto.dev/docs/
+
+https://www.pypandas.cn/docs/getting_started/basics.html#%E5%B1%9E%E6%80%A7%E4%B8%8E%E5%BA%95%E5%B1%82%E6%95%B0%E6%8D%AE
+
+https://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/#
